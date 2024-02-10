@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MAvRK7 My name is Raghav
-- 👀 I’m interested in Self Driving Cars 
+- 👀 I’m interested in Machine and Deep Learning and AI
 - 🌱 I’m currently learning C, C++, Python and DSA 
-- 💞️ I’m looking to collaborate on  AI 
+- 💞️ I’m looking to collaborate on  ML 
 - 📫 How to reach me ... satvikraghav007@gmail.com
 
 <!---
