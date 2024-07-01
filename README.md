@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MAvRK7 My name is Raghav
-- 👀 I’m interested in Machine and Deep Learning and AI
-- 🌱 I’m currently learning C, C++, Python and DSA 
+- 👀 I’m interested in Machine Learning and AI
+- 🌱 I’m working on various AI/ML Projects and honing my skills 
 - 💞️ I’m looking to collaborate on  ML 
 - 📫 How to reach me ... satvikraghav007@gmail.com
 
