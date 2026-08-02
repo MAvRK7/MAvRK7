@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MAvRK7 My name is Satvik Raghav
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m working on various AI/ML Projects and honing my skills 
-- 💞️ I’m looking to collaborate on  ML 
+- 💞️ I’m looking to collaborate on AI/LLMs
 - 📫 How to reach me ... satvikraghav007@gmail.com
 
 <!---
